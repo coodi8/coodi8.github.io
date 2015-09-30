@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://coodi8.github.io/candel/Simple-Example.ipa</string>
+					<string>http://coodi8.github.io/papa.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.ktyx.ybf</string>
+				<string>com.papa91.monitor</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
